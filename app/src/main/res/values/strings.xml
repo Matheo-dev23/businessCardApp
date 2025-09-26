@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="full_name_text">Paszkowski Matheo</string>
+    <string name="title_text">Future Software Engineer</string>
+    <string name="phoneNumber_text">+33 7 84 44 68 25</string>
+    <string name="github_text">\@MathCodder23</string>
+    <string name="email_text">math.psz@gmail.com</string>
+</resources>
